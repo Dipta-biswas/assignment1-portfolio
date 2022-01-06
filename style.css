@@ -153,7 +153,21 @@ span{
     color: #333333;
     border-radius: 10px;
 }
-
+input{
+    padding: 8px;
+    margin: 10px 0;
+    border: 2px solid #FFAD5A;
+    border-radius: 5px;
+}
+label{
+    font-weight: bold;
+}
+textarea{
+    resize: none;
+    border: 2px solid #FFAD5A;
+    color: #333333;
+    font-size: 1rem;
+}
 #submit{
     display: inline-block;
     margin-top: 10px;
