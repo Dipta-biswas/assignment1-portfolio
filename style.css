@@ -153,6 +153,9 @@ span{
     color: #333333;
     border-radius: 10px;
 }
+#contact-h{
+    font-size: 2rem;
+}
 input{
     padding: 8px;
     margin: 10px 0;
@@ -162,12 +165,7 @@ input{
 label{
     font-weight: bold;
 }
-textarea{
-    resize: none;
-    border: 2px solid #FFAD5A;
-    color: #333333;
-    font-size: 1rem;
-}
+
 #submit{
     display: inline-block;
     margin-top: 10px;
